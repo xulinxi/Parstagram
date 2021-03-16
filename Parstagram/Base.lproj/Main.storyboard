@@ -85,7 +85,7 @@
             <objects>
                 <viewController id="u6t-xT-JZV" customClass="FeedViewController" customModule="Parstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4lx-0S-Biv">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <viewLayoutGuide key="safeArea" id="Vmw-AT-Mrk"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -99,10 +99,10 @@
         <!--Navigation Controller-->
         <scene sceneID="a9s-sJ-Soz">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="AnR-BK-mX0" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" modalPresentationStyle="fullScreen" id="AnR-BK-mX0" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="2jr-5u-w5N">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="56"/>
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
