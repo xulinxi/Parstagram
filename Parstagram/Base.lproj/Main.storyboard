@@ -101,35 +101,42 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="A67-UZ-HLj">
-                                                    <rect key="frame" x="8" y="8" width="398" height="373"/>
+                                                    <rect key="frame" x="8" y="8" width="398" height="373.5"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" secondItem="A67-UZ-HLj" secondAttribute="height" multiplier="398:373" id="W3u-NN-Lc9"/>
                                                         <constraint firstAttribute="width" secondItem="A67-UZ-HLj" secondAttribute="height" multiplier="398:373" id="hMP-oD-1dk"/>
                                                     </constraints>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Wow, cute shirt!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mcx-au-rog">
-                                                    <rect key="frame" x="75" y="389" width="331" height="20.5"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="Lindsey" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="37Y-K2-HzO">
+                                                    <rect key="frame" x="8" y="389.5" width="88" height="20.5"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="88" id="Y25-jK-Kjb"/>
+                                                    </constraints>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="Lindsey" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="37Y-K2-HzO">
-                                                    <rect key="frame" x="8" y="389" width="59" height="20.5"/>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Wow, cute shirt!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mcx-au-rog">
+                                                    <rect key="frame" x="104" y="389.5" width="122" height="20.5"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="Mcx-au-rog" firstAttribute="top" secondItem="A67-UZ-HLj" secondAttribute="bottom" constant="8" id="140-i3-9xV"/>
-                                                <constraint firstItem="Mcx-au-rog" firstAttribute="leading" secondItem="37Y-K2-HzO" secondAttribute="trailing" constant="8" id="4Fk-yK-3Q2"/>
-                                                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Mcx-au-rog" secondAttribute="bottom" constant="8" id="BDc-kT-5PK"/>
+                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="firstBaseline" secondItem="Mcx-au-rog" secondAttribute="baseline" id="DAI-VS-3NS"/>
+                                                <constraint firstItem="Mcx-au-rog" firstAttribute="top" secondItem="A67-UZ-HLj" secondAttribute="bottom" constant="8" id="DKn-jD-bpf"/>
+                                                <constraint firstAttribute="bottom" secondItem="37Y-K2-HzO" secondAttribute="bottom" constant="8" id="IA5-MT-ddX"/>
                                                 <constraint firstItem="A67-UZ-HLj" firstAttribute="leading" secondItem="FBv-1P-E4V" secondAttribute="leading" constant="8" id="NPY-sb-VyJ"/>
-                                                <constraint firstAttribute="trailing" secondItem="Mcx-au-rog" secondAttribute="trailing" constant="8" id="hlq-qy-HQa"/>
+                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="leading" secondItem="A67-UZ-HLj" secondAttribute="leading" id="Ng7-ZG-FcD"/>
+                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="leading" secondItem="FBv-1P-E4V" secondAttribute="leadingMargin" constant="-12" id="UaY-kh-Li9"/>
+                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="firstBaseline" secondItem="Mcx-au-rog" secondAttribute="firstBaseline" id="X80-6H-3hz"/>
+                                                <constraint firstItem="Mcx-au-rog" firstAttribute="leading" secondItem="37Y-K2-HzO" secondAttribute="trailing" constant="8" id="YEa-if-wdH"/>
+                                                <constraint firstAttribute="bottomMargin" secondItem="37Y-K2-HzO" secondAttribute="bottom" constant="-3" id="YV5-xt-XDX"/>
+                                                <constraint firstItem="Mcx-au-rog" firstAttribute="leading" secondItem="FBv-1P-E4V" secondAttribute="leading" constant="104" id="blV-Bp-gWo"/>
                                                 <constraint firstAttribute="trailing" secondItem="A67-UZ-HLj" secondAttribute="trailing" constant="8" id="kud-K4-dBM"/>
                                                 <constraint firstItem="A67-UZ-HLj" firstAttribute="top" secondItem="FBv-1P-E4V" secondAttribute="top" constant="8" id="m2P-Mm-i1t"/>
-                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="top" secondItem="A67-UZ-HLj" secondAttribute="bottom" constant="8" id="oJR-9n-0O8"/>
-                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="leading" secondItem="FBv-1P-E4V" secondAttribute="leading" constant="8" id="qkC-rf-gdg"/>
+                                                <constraint firstItem="37Y-K2-HzO" firstAttribute="centerY" secondItem="Mcx-au-rog" secondAttribute="centerY" id="may-VA-OPG"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
