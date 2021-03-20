@@ -22,5 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can sign up to create a new account. (1pt)
+- [x] User can log in. (1pt)
+<img src='http://g.recordit.co/yRZ2b0eMjZ.gif' title='Video Walkthrough-Part I' width='' alt='Video Walkthrough-Part I' />
