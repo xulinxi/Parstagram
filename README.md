@@ -26,3 +26,9 @@ Here's a walkthrough of implemented user stories:
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can log in. (1pt)
 <img src='http://g.recordit.co/yRZ2b0eMjZ.gif' title='Video Walkthrough-Part I' width='' alt='Video Walkthrough-Part I' />
+
+- [x] User can log in. (1pt)
+<img src='http://g.recordit.co/vpeCnEjBUD.gif' title='Video Walkthrough-Part II' width='' alt='Video Walkthrough-Part II' />
+
+- [x] User can view the last 20 posts. (4pts)
+<img src='http://g.recordit.co/PN1qXNvIuV.gif' title='Video Walkthrough-Part III' width='' alt='Video Walkthrough-Part III' />
