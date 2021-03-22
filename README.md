@@ -24,6 +24,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 <img src='http://g.recordit.co/OYT6HJZV7c.gif' title='Video Walkthrough-Part I' width='250pt' alt='Video Walkthrough-Part I' />
+
 - [x] User can sign up to create a new account. (1pt)
 - [x] User can take a photo, add a caption, and post it to the server. (3pt)
 <img src='http://g.recordit.co/yRZ2b0eMjZ.gif' title='Video Walkthrough-Part II' width='250pt' alt='Video Walkthrough-Part I' />
