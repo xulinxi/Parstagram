@@ -33,7 +33,5 @@ Here's a walkthrough of implemented user stories:
 - [x] User can view the last 20 posts. (4pts)
 <img src='http://g.recordit.co/WGf5H4NVWN.gif' title='Video Walkthrough-Part III' width='250pt' alt='Video Walkthrough-Part II' />
 
-<img src='http://g.recordit.co/WGf5H4NVWN.gif' title='Video Walkthrough-Part III' width='250pt' alt='Video Walkthrough-Part III' />
-
 # Video Walkthrough - All functions
 <img src='http://g.recordit.co/mMomKh9BlB.gif' title='Video Walkthrough-Part IIII' width='250pt' alt='Video Walkthrough-Part IV' />
