@@ -20,6 +20,8 @@ The following **bonus** features are implemented:
 - [ ] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
+<img src='http://g.recordit.co/N9M0A7swL4.gif' title='Video Walkthrough-Part I' width='250pt' alt='Video Walkthrough-Part I' />
+
 
 Here's a walkthrough of implemented user stories:
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
