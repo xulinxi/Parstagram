@@ -28,12 +28,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.initialize(with: parseConfig)
         
         // --- end copy
-        if PFUser.current() != nil {
-            let main = UIStoryboard(name: "Main", bundle: nil)
-            let FeedNavigationController = main.instantiateViewController(identifier: "FeedNavigationController")
-            
-            window?.rootViewController = FeedNavigationController
-        }
+//        if PFUser.current() != nil {
+//            let main = UIStoryboard(name: "Main", bundle: nil)
+//            let FeedNavigationController = main.instantiateViewController(identifier: "FeedNavigationController")
+//
+//            window?.rootViewController = FeedNavigationController
+//        }
 
 
 
