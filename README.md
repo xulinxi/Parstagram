@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 
 - [x] User can view comments on a post. (3pts)
 - [x] User can add a new comment. (5pts)
+<img src='http://g.recordit.co/H631RciWmZ.gif' title='Video Walkthrough-View posts and add comments' width='250pt' alt='Video Walkthrough-View posts and add comments' />
 
 The following **bonus** features are implemented:
 
