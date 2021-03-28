@@ -10,7 +10,10 @@ The following **required** functionality is completed:
 
 - [x] User stays logged in across restarts. (1pt)
 <img src='http://g.recordit.co/HPjtPNHU5y.gif' title='Video Walkthrough-Stays Logged in Across Restarts' width='250pt' alt='Video Walkthrough-Stays Logged in Across Restarts' />
+
 - [x] User can log out. (1pt)
+<img src='http://g.recordit.co/7MBYlIIXt1.gif' title='Video Walkthrough-User can log out' width='250pt' alt='Video Walkthrough-User can log out' />
+
 - [x] User can view comments on a post. (3pts)
 - [x] User can add a new comment. (5pts)
 
